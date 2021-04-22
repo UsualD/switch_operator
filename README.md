@@ -52,6 +52,7 @@ switch_operator_Kazakh
 		break;
 	default:
 		cout << "Mundai ai joq qoi" << endl;
+		cout<<"K-ny qaittan engiziniz  "<<;
 		goto bagdarlama_basy;
 		break;
 	}
